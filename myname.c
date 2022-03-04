@@ -2,5 +2,5 @@
 
 main() {
 
-    printf("林子云");
+    printf("林子云"\n);
 }
