@@ -9,8 +9,10 @@ int main() {
     int e = 0;
 
     printf("每輸入一個數字，程式會再印出相同的數字。\n");
-    //fill some condition into the following while loop
+    //add scanf code to get data from input
+    //and feed those input into a, b, c, d, e, respectively.
     //only ONE line code is you need
+    //please refer page 18 of stdio.h slides
 scanf("%d%d%d%d%d", &a, &b, &c, &d, &e);
     printf("a=%d\n", a);
     printf("b=%d\n", b);
